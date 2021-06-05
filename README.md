@@ -3,7 +3,7 @@
 Sketch for A1454 I2C Hall Effect sensor using a custom-made A1454 breakout board
 running on an STM32L432 (Ladybug) development board.
  
-Sketch based on work by Laveréna Wienclaw for [TinyCircuits](https://github.com/TinyCircuits/TinyCircuits-A1454-library/blob/master/src/TinyCircuits_A1454.h)
+Sketch based on work by Laveréna Wienclaw for [TinyCircuits](https://github.com/TinyCircuits/TinyCircuits-A1454-library)
   
 Sketch demonstrates putting the sensor in sleep mode and waking up from sleep mode, and
 getting properly scaled signed 12-bit mag sensor and temperature sensor data.
