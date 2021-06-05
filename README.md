@@ -1,7 +1,7 @@
 # A1454-Hall-Sensor
 
 Sketch for A1454 I2C Hall Effect sensor using a custom-made A1454 [breakout board](https://oshpark.com/shared_projects/NNIjeOuZ)
-running on an STM32L432 (Ladybug) development board.
+running on an STM32L432 ([Ladybug](https://www.tindie.com/products/tleracorp/ladybug-stm32l432-development-board/)) development board.
  
 Sketch based on work by Laveréna Wienclaw for [TinyCircuits](https://github.com/TinyCircuits/TinyCircuits-A1454-library)
   
